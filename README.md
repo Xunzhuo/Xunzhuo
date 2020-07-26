@@ -6,4 +6,4 @@
 
 + 我的博客在[这里](https://www.liuxunzhuo.tech)👈，my blog is [here](https://www.liuxunzhuo.tech)👈
 
-> 努力做出有意义和价值的项目🚀🚀🚀
+> 努力做出有意义和价值的项目🚀🚀
