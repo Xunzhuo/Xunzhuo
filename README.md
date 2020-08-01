@@ -11,7 +11,7 @@ I like to Record and Share **Knowledge**, My Blog is [Here](https://www.liuxunzh
 
 I love **OpenSource Movement** and I am a Part of it.
 
-#### My Repos is Below👇 Enjoy it and Feel free to give Your Suggestions.
+#### My Repos are Below👇 Enjoy it and Feel free to give Your Suggestions.
 
 ## Working Hard to Make Something Great🚀🚀
 
