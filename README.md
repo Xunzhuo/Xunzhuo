@@ -1,13 +1,13 @@
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# Hello World 
+# Hi, I am Jarvis Liu!
 
-[Blogs](https://www.liuxunzhuo.com) • [Zhihu](https://zhihu.com/people/liuxunzhuo)
+[Blog](https://www.liuxunzhuo.com) • [Zhihu](https://zhihu.com/people/liuxunzhuo)
 
-My Chinese name is **刘训灼**，English name is **Jarvis**🤖️
+My Chinese name is **刘训灼**
 
-Study at [UESTC](https://www.uestc.edu.cn) (2018 - 2022) ，Major in **Software Engineering**💻
+Study at [UESTC](https://www.uestc.edu.cn)，Major in **Software Engineering**💻
 
 I love **OpenSource Movement** ❤️
 
