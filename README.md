@@ -3,7 +3,7 @@
 
 # Hi, I am Jarvis Liu!
 
-[Blog](https://www.liuxunzhuo.com)🏠 • [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
+[Blog](https://www.liuxunzhuo.com)🏠 - [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
 My Chinese name is **刘训灼**
 
