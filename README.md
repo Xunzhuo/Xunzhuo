@@ -17,7 +17,7 @@ I love **OpenSource Movement** and I am a Part of it.
 
 ## Working Hard to Make Something Great🚀🚀
 
-<img  src="https://github-readme-stats.vercel.app/api?username=xunzhuo&show_icons=true&theme=tokyonight&hide=prs">
+<img  src="https://github-readme-stats.vercel.app/api?username=xunzhuo&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF">
 
 </div>
 
