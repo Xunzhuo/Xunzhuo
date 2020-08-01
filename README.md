@@ -17,7 +17,7 @@ I Believe "***Talk is Cheap, Show me the Code***" 👽
 
 ## My Repos are Below👇 
 
-#### Feel free to give Your Issues or PRs🌍
+#### Feel free to give Your Suggestions, Issues or PRs🌍
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight&hide=prs&icon_color=6392DF">
 
