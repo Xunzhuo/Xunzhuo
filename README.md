@@ -3,14 +3,15 @@
 
 # Hello World 👋 
 
-我的中文名是**刘训灼**，English name is **Jarvis**🤖️
+My Chinese name is **刘训灼**，English name is **Jarvis**🤖️
 
-就读于[中国电子科技大学](https://www.uestc.edu.cn) ( 2018 - 2022  ) ，专业是**软件工程**🚀 
+Study at [UESTC](https://www.uestc.edu.cn) (2018 - 2022) ，Major in **Software Engineering**💻
 
-我的博客在[这里](https://www.liuxunzhuo.tech)👈，my blog is [here](https://www.liuxunzhuo.tech)👈
+I like to record and Share Knowledge, My blog is [Here](https://www.liuxunzhuo.tech)👈
 
-#### 努力做出有意义和价值的项目🚀🚀
+#### Working Hard to Make Something Great🚀🚀
 
 <img  src="https://github-readme-stats.vercel.app/api?username=xunzhuo&show_icons=true&theme=dark&hide=prs">
+
 </div>
 
