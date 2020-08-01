@@ -7,7 +7,7 @@
 
 My Chinese name is **刘训灼**
 
-Study at [UESTC](https://www.uestc.edu.cn)，Major in **Software Engineering**💻
+Study at **UESTC**，Major in **Software Engineering**💻
 
 I love **OpenSource Movement** ❤️
 
