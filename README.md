@@ -11,6 +11,6 @@
 
 #### 努力做出有意义和价值的项目🚀🚀
 
-<img  src="https://github-readme-stats.vercel.app/api?username=xunzhuo&show_icons=true&theme=dark">
+<img  src="https://github-readme-stats.vercel.app/api?username=xunzhuo&show_icons=true&theme=dark&hide=prs">
 </div>
 
