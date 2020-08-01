@@ -13,4 +13,6 @@
 
 </div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xunzhuo&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=xunzhuo&show_icons=true&theme=cobalt)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xunzhuo&repo=OI_Sharing)
