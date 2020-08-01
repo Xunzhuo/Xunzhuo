@@ -1,4 +1,4 @@
-
+<div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 # Hello World 👋 
@@ -10,3 +10,5 @@
 + 我的博客在[这里](https://www.liuxunzhuo.tech)👈，my blog is [here](https://www.liuxunzhuo.tech)👈
 
 > 努力做出有意义和价值的项目🚀🚀
+
+</div>
