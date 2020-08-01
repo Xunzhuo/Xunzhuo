@@ -1,7 +1,7 @@
 
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### 你好 👋 
+# Hello World 👋 
 
 + 我的中文名是**刘训灼**，English name is **Jarvis**🤖️
 
