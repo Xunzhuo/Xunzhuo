@@ -17,7 +17,9 @@ I Believe "***Talk is Cheap, Show me the Code***" 👽
 
 ## My interest❤️ 
 
-**Web Developement, Architecture, Cloud Native, Container, Microservice, Java and AI.** ✨
+**Web Developement, Architecture, Cloud Native**
+
+**Container, Microservice, Java and AI** ✨
 
 ## My Repos are Below👇 
 
