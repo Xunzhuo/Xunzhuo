@@ -25,7 +25,7 @@ I Believe "***Talk is Cheap, Show me the Code***" 👽
 
 #### Feel free to give Your Suggestions, Issues or PRs🌍
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs">
+<img  src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight&icon_color=6392DF">
 
 </div>
 
