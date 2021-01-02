@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# Hi, I am Jarvis Liu!👨‍🎓
+# Hi, I am Bit Liu!👨‍🎓
 
 [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
