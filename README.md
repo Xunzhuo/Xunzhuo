@@ -5,7 +5,7 @@
 
 [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
-My Chinese name is **刘训灼**🇨🇳
+My Chinese name is **刘训灼**🇨🇳  Working at @Tencent
 
 Study at **UESTC**，Major in **Software Engineering**💻
 
