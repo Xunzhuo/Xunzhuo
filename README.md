@@ -19,9 +19,9 @@ I Believe "***Talk is Cheap, Show me the Code***" 👽
 
 ## My interest❤️ 
 
-**Web Developement, Big Data and AI**☁️
+**Cloud Native, Big Data and AI**☁️
 
-**Algorithms, Container, Microservice, Java** 🤖️
+**Algorithms, Container, Microservice** 🤖️
 
 ## My Repos are Below👇 
 
