@@ -21,7 +21,7 @@ I Believe "***Talk is Cheap, Show me the Code***" 👽
 
 **Cloud Native, Big Data , Blockchain and AI**☁️
 
-**Kubernetes, Service Mesh, Istio，Envoy，Consul，Prometheus** 🤖️
+**Kubernetes, Service Mesh，Envoy，Consul，Prometheus** 🤖️
 
 ## My Repos are Below👇 
 
