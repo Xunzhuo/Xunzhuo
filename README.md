@@ -15,8 +15,6 @@ I love **OpenSource Movement** ❤️
 
 I like to Record and Share **Knowledge** ☁️
 
-I Believe "***Talk is Cheap, Show me the Code***" 👽
-
 ## My interest❤️ 
 
 **Cloud Native, Big Data , Blockchain and AI**☁️
