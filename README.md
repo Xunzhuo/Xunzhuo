@@ -1,12 +1,7 @@
-  <iframe src="http://githubbadge.appspot.com/xunzhuo" style="border: 0;height: 111px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+
 <div align="center">
-
-
-
 # Hi, I am Bit!👨‍🎓
 
-
-  
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 
 [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
