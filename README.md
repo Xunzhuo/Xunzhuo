@@ -3,6 +3,8 @@
 
 
 # Hi, I am Bit!👨‍🎓
+
+  <iframe src="http://githubbadge.appspot.com/xunzhuo" style="border: 0;height: 111px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
   
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 
