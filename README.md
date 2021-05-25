@@ -3,7 +3,7 @@
   
 # Hi, I am Bit!👨‍🎓
   
-    [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
+[Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
 ![GitHub stars](https://img.shields.io/github/stars/Xunzhuo?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Xunzhuo/Algorithm-Guide?style=social)
