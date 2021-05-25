@@ -1,9 +1,13 @@
 
 <div align="center">
+  
 # Hi, I am Bit!👨‍🎓
 
   ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
-
+  ![GitHub stars](https://img.shields.io/github/stars/Xunzhuo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Xunzhuo?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Xunzhuo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Xunzhuo?style=social)
 [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
 I am now Working at **Tencent** 🐧
