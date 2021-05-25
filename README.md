@@ -5,10 +5,6 @@
   
 [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
-![GitHub stars](https://img.shields.io/github/stars/Xunzhuo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Xunzhuo/Algorithm-Guide?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Xunzhuo?style=social)
-
 I am now Working at **Tencent** 🐧
 
 School at **UESTC**，Major in **Software Engineering**💻
