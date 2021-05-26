@@ -5,7 +5,7 @@
   
 [Blog](https://www.liuxunzhuo.com)🏠  | [Zhihu](https://zhihu.com/people/liuxunzhuo)📚
 
-I am now Working at **Tencent** 🐧
+I am now in **Tencent** 🐧
 
 School at **UESTC**，Major in **Software Engineering**💻
 
