@@ -9,7 +9,7 @@ I am now in **Tencent** 🐧
 
 School at **UESTC**，Major in **Software Engineering**💻
 
-I love **OpenSource Movement** ❤️
+I love **OpenSource Spirit** ❤️
 
 I like to Record and Share **Knowledge** ☁️
 
