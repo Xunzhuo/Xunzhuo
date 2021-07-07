@@ -25,5 +25,8 @@ I like to Record and Share **Knowledge** ☁️
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight&icon_color=6392DF">
 
+<img src="https://github-profile-trophy.vercel.app/?username=xunzhuo&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+  
+  
 </div>
 
