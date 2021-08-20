@@ -13,7 +13,7 @@ I love **OpenSource Spirit** ❤️
 
 I like to Record and Share **Knowledge** ☁️
   
-## My membership 🥇
+## My Membership 🥇
   
 ![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
@@ -31,8 +31,8 @@ Maintainer of [Istio](https://github.com/istio) ☁️ |  Member of [Kubernetes]
 #### Feel free to give Your Suggestions, Issues or PRs🌍
   
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xunzhuo&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xunzhuo&theme=tokyonight" />
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=xunzhuo&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
