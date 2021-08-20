@@ -18,7 +18,7 @@ I like to Record and Share **Knowledge** ☁️
 ![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
 
-Maintainer of [Istio](https://github.com/istio) ☁️ |  Member of [Kubernetes](https://github.com/Kubernetes) 🚀 |  Owner of [UESTC](https://github.com/uestcer) 🏫
+Maintainer of [Istio](https://github.com/istio) ☁️ |  Member of [Kubernetes](https://github.com/Kubernetes) & [CNC](https://github.com/cloudnativeto) 🚀 |  Owner of [UESTC](https://github.com/uestcer) 🏫
 
 ## My interest ❤️ 
 
