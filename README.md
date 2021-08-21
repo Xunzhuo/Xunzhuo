@@ -17,19 +17,18 @@ I like to Record and Share **Knowledge** ☁️
   
 ![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
-
 Maintainer of [Istio](https://github.com/istio) ☁️, Manager and Owner of [UESTC](https://github.com/uestcer) 🏫
-
-*if you need any code review or approve, ping me with `cc @Xunzhuo`* 😃 
   
 Member of [Kubernetes](https://github.com/Kubernetes) & [Kubernetes SIGs](https://github.com/kubernetes-sigs) & [CNC](https://github.com/cloudnativeto) 🚀 and so on.
+
+*If you need any **review** or **approve**, **ping me** with `cc @Xunzhuo`, I`m happy to help* 😃
 
 
 ## My interest ❤️ 
 
 **Cloud Native, Big Data , Blockchain and AI**☁️
 
-**Kubernetes, Istio，Envoy，WebAssembly, eBPF** 🤖️
+**Kubernetes, Docker, Istio, Envoy, WebAssembly, eBPF** 🪐
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 
