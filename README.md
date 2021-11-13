@@ -10,8 +10,6 @@ School at **UESTC**，Major in **Software Engineering**💻
 I love **OpenSource Spirit** ❤️
 
 I like to Record and Share **Knowledge** ☁️
-  
-![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
 
 *If you need any **help**, **ping me** with `cc @Xunzhuo`, I`m happy to help* 😃
 
