@@ -1,13 +1,13 @@
 <p align="center">
-  <img width="49%" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img width="75%" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
 <h2>Hi forks! Welcome aboard my code station <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
-
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-liuxunzhuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](https://www.linkedin.com/in/bitliu/) [![Twitter Badge](https://img.shields.io/badge/-liuxunzhuo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/liuxunzhuo)](https://twitter.com/liuxunzhuo) ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
+
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 I am Xunzhuo 😃. I am from China and currently working at [Tencent Cloud](https://www.tencent.com/) in Chengdu ☁. 
 
@@ -16,7 +16,7 @@ I major in Software Engineering in [University of Electronic Science and Technol
 I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road 🕊.
 
 ## 👯 Communities
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200vw'>
 
 * 🚀 [Istio](https://github.com/istio) Maintainer/Reviewer 
 * ✈ [Kubernetes](https://github.com/kubernetes) Member/Contributor
