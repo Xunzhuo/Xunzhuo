@@ -27,7 +27,7 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 - 🔗 Service Mesh with **Istio**
 - 🔩 Extension Ability with **WebAssembly**
 - 🚪 API Gateway with **Envoyproxy, Kong, Apache APISIX**
-- 💬 Programing with **Golang, Rust, C++, C, Lua, Python**
+- 💬 Programming with **Golang, Rust, C++, C, Lua, Python**
 - 🔧 Container Ecosystem with **Kubernetes** and **Docker**
 ## 🤔 Hello World
 - 💬 Ask me about anything and everything.
