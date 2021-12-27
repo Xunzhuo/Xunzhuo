@@ -21,15 +21,11 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 <!-- <img align="right" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="20"/> -->
 
 - 🔗 Service Mesh with **Istio**
-- 🔩 Extension Ability with **WebAssembly**
 - 🚪 API Gateway with **EnvoyProxy**
-- 💬 Programming with **Golang, Rust, C++, C, Lua, Python**
+- 🔩 Extension Ability with **WebAssembly**
 - 🔧 Container Ecosystem with **Kubernetes** and **Docker**
-## 🤔 Hello World
-- 💬 Ask me about anything and everything.
-- 📫 Read my blogs: [Blog](https://www.xunzhuotalk.com)
-- 🔔 Subscribe: [Zhihu](https://www.zhihu.com/people/liuxunzhuo)
-- ⚡ Belief: `Stay hugry, Stay foolish.` -- Steve Jobs
+- 👀 Observability with **Kiali, Prometheus, Jaeger, Grafana**
+- 💬 Programming with **Golang, Rust, C++, C, Lua, Python, Java**
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight" />
