@@ -31,5 +31,3 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xunzhuo&theme=tokyonight" />
 </p>
-
-<img src="https://imgur.com/rilHVxA.png"/>
