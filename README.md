@@ -15,7 +15,7 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 * 🚀 [Istio](https://github.com/istio) Maintainer/Reviewer 
 * 🌍 [Kubernetes](https://github.com/kubernetes) Member/Contributor
 * 🌙 [SOFASTACK](https://github.com/sofastack) & [MOSN](https://github.com/mosn) Member/Reviewer 
-* 🌳 [Aeraki-Framework](https://github.com/aeraki-framework) Member/Contributor 
+* 🌳 [Aeraki-Mesh](https://github.com/aeraki-mesh) Member/Contributor 
 * 🤝 [Cloud Native Community in China](https://github.com/cloudnativeto) Member 
 * 📚 [UESTC](https://github.com/uestcer) Owner, [Chengdu No.7 High School](https://github.com/no7er) Owner 
 ## ⚡ Technologies
