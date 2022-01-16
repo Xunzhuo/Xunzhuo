@@ -10,7 +10,6 @@ I major in Software Engineering in [University of Electronic Science and Technol
 I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road 🕊.
 
 ## 👯 Communities
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Xunzhuo&show_icons=true&theme=tokyonight" />
 
 * 🚀 [Istio](https://github.com/istio) Maintainer/Reviewer 
 * 🌍 [Kubernetes](https://github.com/kubernetes) Member/Contributor
@@ -19,7 +18,6 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 * 🤝 [Cloud Native Community in China](https://github.com/cloudnativeto) Member 
 * 📚 [UESTC](https://github.com/uestcer) Owner, [Chengdu No.7 High School](https://github.com/no7er) Owner 
 ## ⚡ Technologies
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xunzhuo&theme=tokyonight" />
 
 - 🔗 Service Mesh with **Istio**
 - 🚪 API Gateway with **EnvoyProxy**
