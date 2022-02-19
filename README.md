@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="75%" src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
-
 <h2>Hi forks! Welcome aboard my code station 🚀 </h2> 
 
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
@@ -13,7 +9,7 @@ I major in Software Engineering in [University of Electronic Science and Technol
 
 I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road 🕊.
 
-## 👯 Communities
+## 👯 Communities Roles
 
 * 🚀 [Istio](https://github.com/istio) Maintainer/Reviewer 
 * 🌍 [Kubernetes](https://github.com/kubernetes) Member/Contributor
@@ -27,5 +23,5 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 - 🚪 API Gateway with **EnvoyProxy**
 - 🔩 Extension Ability with **WebAssembly**
 - 🔧 Container Ecosystem with **Kubernetes** and **Docker**
-- 👀 Observability with **Kiali, Prometheus, Jaeger, Grafana**
+- 👀 Observability with **Prometheus, Jaeger, Grafana**
 - 💬 Programming with **Golang, Rust, C++, C, Lua, Python, Java**
