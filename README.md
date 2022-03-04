@@ -18,6 +18,7 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 * 🤝 [Cloud Native Community in China](https://github.com/cloudnativeto) Member 
 * 📚 [UESTC](https://github.com/uestcer) Owner, [Chengdu No.7 High School](https://github.com/no7er) Owner 
 ## ⚡ Technologies
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xunzhuo">
 
 - 🔗 Service Mesh with **Istio**
 - 🚪 API Gateway with **EnvoyProxy**
