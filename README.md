@@ -1,3 +1,7 @@
+## 👇 Click to know more about Kiali 
+
+[![kiali](https://user-images.githubusercontent.com/48784001/165821840-4fb1e34f-f99c-402b-882c-8f18a6206bcc.jpeg)](https://kiali.io)
+
 <h2>Hi forks! Welcome aboard my code station 🚀 </h2> 
 
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
@@ -9,7 +13,8 @@ I major in Software Engineering in [University of Electronic Science and Technol
 
 I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road 🕊.
 
-## 👯 Communities Roles
+## 👯 Communities
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xunzhuo">
 
 * 🚀 [Istio](https://github.com/istio) &  [Kiali](https://github.com/kiali)  Maintainer
 * 🌍 [Kubernetes](https://github.com/kubernetes) Member/Contributor
@@ -17,12 +22,3 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 * 🌳 [Aeraki Mesh](https://github.com/aeraki-mesh) Member/Contributor 
 * 🤝 [Cloud Native Community in China](https://github.com/cloudnativeto) Member 
 * 📚 [UESTC](https://github.com/uestcer) Owner, [Chengdu No.7 High School](https://github.com/no7er) Owner 
-## ⚡ Technologies
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xunzhuo">
-
-- 🔗 Service Mesh with **Istio**
-- 🚪 API Gateway with **EnvoyProxy**
-- 🔩 Extension Ability with **WebAssembly**
-- 🔧 Container Ecosystem with **Kubernetes** and **Docker**
-- 👀 Observability with **Prometheus, Jaeger, Grafana**
-- 💬 Programming with **Golang, Rust, C++, C, Lua, Python, Java**
