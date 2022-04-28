@@ -1,6 +1,6 @@
 ## 🎯 Click to know more about Kiali
 
-[<img width="1181" alt="kiali" src="https://user-images.githubusercontent.com/48784001/165825288-4ab0c4d5-4c98-476c-8dc5-e434709e3c3a.png">](https://kiali.io)
+[<img width="1000" alt="kiali" src="https://user-images.githubusercontent.com/48784001/165825288-4ab0c4d5-4c98-476c-8dc5-e434709e3c3a.png">](https://kiali.io)
 
 <h2> ✈️ Hi forks! Welcome aboard my code station </h2> 
 
@@ -14,7 +14,7 @@ I major in Software Engineering in [University of Electronic Science and Technol
 I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road 🕊.
 
 ## 🎉 Communities 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xunzhuo">
+<img align="right" width=40% src="https://github-readme-stats.vercel.app/api?username=xunzhuo">
 
 * 🚀 [Istio](https://github.com/istio) &  [Kiali](https://github.com/kiali)  Maintainer
 * 🌍 [Kubernetes](https://github.com/kubernetes) Member/Contributor
