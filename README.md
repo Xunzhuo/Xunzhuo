@@ -1,6 +1,6 @@
 ## 👇 Click to know more about Kiali 
 
-[![kiali](https://user-images.githubusercontent.com/48784001/165821840-4fb1e34f-f99c-402b-882c-8f18a6206bcc.jpeg)](https://kiali.io)
+[<img width="1181" alt="kiali" src="https://user-images.githubusercontent.com/48784001/165825288-4ab0c4d5-4c98-476c-8dc5-e434709e3c3a.png">](https://kiali.io)
 
 <h2>Hi forks! Welcome aboard my code station 🚀 </h2> 
 
