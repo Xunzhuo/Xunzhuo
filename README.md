@@ -11,7 +11,7 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 
 ## 👯 Communities Roles
 
-* 🚀 [Istio](https://github.com/istio) Maintainer/Reviewer 
+* 🚀 [Istio](https://github.com/istio) &  [Kiali](https://github.com/kiali)  Maintainer
 * 🌍 [Kubernetes](https://github.com/kubernetes) Member/Contributor
 * 🌙 [SOFASTACK](https://github.com/sofastack) & [MOSN](https://github.com/mosn) Member/Reviewer 
 * 🌳 [Aeraki Mesh](https://github.com/aeraki-mesh) Member/Contributor 
