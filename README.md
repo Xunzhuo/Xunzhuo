@@ -2,7 +2,7 @@
 
 [<img width="1000" alt="kiali" src="https://user-images.githubusercontent.com/48784001/165825288-4ab0c4d5-4c98-476c-8dc5-e434709e3c3a.png">](https://kiali.io)
 
-<h2> 🎊 Hi forks! Welcome aboard my code station </h2> 
+<h2> 💌 Hi forks! Welcome aboard my code station </h2> 
 
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-liuxunzhuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](https://www.linkedin.com/in/bitliu/) [![Twitter Badge](https://img.shields.io/badge/-liuxunzhuo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/liuxunzhuo)](https://twitter.com/liuxunzhuo) ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
