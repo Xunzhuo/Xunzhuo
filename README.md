@@ -1,4 +1,4 @@
-## 🎯 Click to know more about Kiali
+## 👇 Click to know more about Kiali
 
 [<img width="1000" alt="kiali" src="https://user-images.githubusercontent.com/48784001/165825288-4ab0c4d5-4c98-476c-8dc5-e434709e3c3a.png">](https://kiali.io)
 
