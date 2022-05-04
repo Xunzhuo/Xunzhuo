@@ -9,6 +9,8 @@ I major in Software Engineering in [University of Electronic Science and Technol
 
 I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road 🕊.
 
+I am an Open Source Enthusiast ❤️ Focusing on Service Mesh and API Gateway 🚀 Exploring Extension and Telemetry 🌟
+
 ## 🍀 Communities 
 <img align="right" width=40% src="https://github-readme-stats.vercel.app/api?username=xunzhuo">
 
