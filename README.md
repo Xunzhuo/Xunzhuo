@@ -12,7 +12,6 @@ I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http:/
 I am an Open Source Enthusiast ❤️ Focusing on Service Mesh and API Gateway 🚀 Exploring Extension and Telemetry 🌟
 
 ## 🍀 Communities 
-<img align="right" width=50% src="https://github-readme-stats.vercel.app/api?username=xunzhuo">
 
 * 🚀 [Istio](https://github.com/istio/istio) & [Kiali](https://github.com/kiali/kiali) & [Merbridge](https://github.com/merbridge/merbridge) Maintainer
 * 🌍 [Kubernetes](https://github.com/kubernetes) & [Kubernetes-SIGs](https://github.com/kubernetes-sigs) Member
