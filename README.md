@@ -13,10 +13,9 @@ I am an Open Source Enthusiast ❤️ Focusing on Service Mesh and API Gateway �
 
 ## 🍀 Communities 
 
-* 🚀 [Istio](https://eng.istio.io/maintainers/Xunzhuo) & [Kiali](https://github.com/kiali/kiali/blob/master/GOVERNANCE.md#maintainers) & [Merbridge](https://github.com/merbridge/merbridge) Maintainer
+* 🚀 [Istio](https://eng.istio.io/maintainers/Xunzhuo) & [Kiali](https://github.com/kiali/kiali/blob/master/GOVERNANCE.md#maintainers) & [Merbridge](https://github.com/merbridge/merbridge) & [Aeraki Mesh](https://github.com/aeraki-mesh) Maintainer
 * 🌍 [Kubernetes](https://github.com/kubernetes) & [Kubernetes-SIGs](https://github.com/kubernetes-sigs) Member
 * 🌙 [SOFASTACK](https://github.com/sofastack) & [MOSN](https://github.com/mosn) Committer
-* 🌳 [Aeraki Mesh](https://github.com/aeraki-mesh) Member
 * 🤝 [Cloud Native Community in China](https://github.com/cloudnativeto) Member 
 * 📚 [UESTC](https://github.com/uestcer) Owner, [Chengdu No.7 High School](https://github.com/no7er) Owner 
 
