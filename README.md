@@ -1,5 +1,3 @@
-<h2> Hi forks! I am <bold>Xunzhuo</bold> from China 🇨🇳</h2> 
-
 ***Do not go gentle into that good night, Old age should burn and rave at close of day. Rage, Rage against the dying light ✨.***
 
 ![IMG_0209](https://user-images.githubusercontent.com/48784001/183855750-7801623c-d2d2-4f82-8f3e-466946c6589b.JPG)
