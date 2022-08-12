@@ -7,13 +7,15 @@
 
 ## Experiences
 
-I am Xunzhuo Liu. I am from China and currently working at [Tencent Cloud Mesh](https://cloud.tencent.com/product/tcm) Team in Tencent ☁. 
+I am Xunzhuo Liu. I am from China 🇨🇳.
 
-I major in Software Engineering in [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) . 
+I am currently working at [Tencent Cloud Mesh](https://cloud.tencent.com/product/tcm) Team in [Tencent Cloud](https://www.tencentcloud.com/?lang=en), previously working at [Tencent Games](https://game.qq.com/).
 
-I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road .
+I major in Software Engineering in [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/). 
 
-I am an Open Source Enthusiast  Focusing on Service Mesh and API Gateway  Exploring Extension and Telemetry 
+I started coding by Olympiad in Informatics in [Chengdu No.7 High School](http://www.cdqz.net/) in Linyin Road.
+
+I am an Open Source Enthusiast, Focusing on Service Mesh and API Gateway, Exploring Extension and Telemetry.
 
 ##  Communities 
 
