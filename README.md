@@ -1,4 +1,4 @@
-# Custom Resource 🥷
+# Hi there! 🙋
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
@@ -25,10 +25,7 @@ metadata:
   name: xunzhuo
   resourceVersion: "22"
   uid: e532b8e2-4d2e-11ed-bdc3-0242ac120002
-  selfLink: /api/v1alpha1/introductions/xunzhuo
 spec:
-  programming-language:
-  - name: golang
   community:
   - name: Istio
     role: Maintainer
@@ -49,7 +46,7 @@ spec:
     role: Member
     focus: api-machinery & network-gateway-api
   - name: UESTC & Chengdu No.7 High School
-    role: Owner & Admin
+    role: Owner
     focus: community management & knowledge sharing
 status:
   community:
