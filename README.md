@@ -1,4 +1,4 @@
-# Custom Resource of Xunzhuo 🙋
+# Custom Resource 🥷
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
@@ -14,10 +14,7 @@ metadata:
     xunzhuo.github.io/country: China
     xunzhuo.github.io/hometown: Chengdu Sichuan
     xunzhuo.github.io/email: bitliu@tencent.com
-    xunzhuo.github.io/career: Cloud Native Developer
     xunzhuo.github.io/company: Tencent
-    xunzhuo.github.io/department: Tencent Cloud
-    xunzhuo.github.io/ex-department: Tencent Games
     xunzhuo.github.io/website: https://liuxunzhuo.com
   labels:
     chinese-name: Xunzhuo Liu（刘训灼）
@@ -29,8 +26,9 @@ metadata:
   resourceVersion: "22"
   uid: e532b8e2-4d2e-11ed-bdc3-0242ac120002
   selfLink: /api/v1alpha1/introductions/xunzhuo
-
 spec:
+  programming-language:
+  - name: golang
   community:
   - name: Istio
     role: Maintainer
@@ -53,5 +51,24 @@ spec:
   - name: UESTC & Chengdu No.7 High School
     role: Owner & Admin
     focus: community management & knowledge sharing
+status:
+  community:
+  - name: envoyproxy/gateway
+    state:
+      contributing:
+        startedAt: "2022-06-20T00:00:00Z"
+  work:
+  - name: Tencent
+    department: Tencent Cloud
+    role: Cloud Native Developer
+    state:
+      running:
+        startedAt: "2021-11-30T00:00:00Z"
+  - name: Tencent
+    department: Tencent Games
+    role: API Gateway Developer
+    state:
+      finished:
+        startedAt: "2021-01-01T00:00:00Z"
+        endedAt: "2021-09-30T00:00:00Z"
 ```
-
