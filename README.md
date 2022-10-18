@@ -1,5 +1,3 @@
-# Hi there! 🙋
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-liuxunzhuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](https://www.linkedin.com/in/bitliu/) [![Twitter Badge](https://img.shields.io/badge/-liuxunzhuo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/liuxunzhuo)](https://twitter.com/liuxunzhuo) 
@@ -9,10 +7,8 @@ apiVersion: xunzhuo.github.io/v1alpha1
 kind: Introduction
 metadata:
   annotations:
-    xunzhuo.github.io/age: 22
     xunzhuo.github.io/gender: He/Him
     xunzhuo.github.io/country: China
-    xunzhuo.github.io/hometown: Chengdu Sichuan
     xunzhuo.github.io/email: bitliu@tencent.com
     xunzhuo.github.io/company: Tencent
     xunzhuo.github.io/website: https://liuxunzhuo.com
