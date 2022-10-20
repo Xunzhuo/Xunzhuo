@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com)
 
 ``` yaml
+
 apiVersion: xunzhuo.github.io/v1alpha1
 kind: Introduction
 metadata:
@@ -22,37 +23,20 @@ metadata:
   uid: e532b8e2-4d2e-11ed-bdc3-0242ac120002
 spec:
   community:
-  - name: Istio
-    role: Maintainer
-    focus: extension & telemetry
-  - name: Envoyproxy
-    role: Maintainer
-    focus: envoy gateway (eg)
-  - name: Kiali
-    role: Maintainer
-    focus: observability & multi-cluster & multi-tenant
-  - name: Aeraki Mesh
-    role: Maintainer
-    focus: protocol codec & service registry
-  - name: Merbridge
-    role: Maintainer
-    focus: eBPF & performance optimization
-  - name: SOFASTACK & MOSN
-    role: Committer
-    focus: application runtime & service governance
-  - name: Kubernetes & Kubernetes-SIGs
-    role: Member
-    focus: api-machinery & network-gateway-api
-  - name: UESTC & Chengdu No.7 High School
-    role: Owner
-    focus: community management & knowledge sharing
+  - role: Maintainer
+    name: Istio, EnvoyProxy, Kiali, Aeraki Mesh, Merbridge
+    focus: Service Mesh & API Gateway & eBPF & Protocol Codec
+  - role: Committer
+    name: MOSN, SOFASTACK
+    focus: Application Runtime & Service Governance
+  - role: Member
+    name: Kubernetes, Kubernetes-SIGs
+    focus: API-Machinery & Network-Gateway-API
+  - role: Owner
+    name: UESTC, Chengdu No.7 High School
+    focus: Community management & Knowledge sharing
 status:
-  community:
-  - name: envoyproxy/gateway
-    state:
-      contributing:
-        startedAt: "2022-06-20T00:00:00Z"
-  work:
+  career:
   - name: Tencent
     department: Tencent Cloud
     role: Cloud Native Developer
