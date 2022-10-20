@@ -9,12 +9,9 @@ kind: Introduction
 metadata:
   annotations:
     xunzhuo.github.io/gender: He/Him
-    xunzhuo.github.io/email: bitliu@tencent.com
-    xunzhuo.github.io/company: Tencent
-    xunzhuo.github.io/website: https://liuxunzhuo.com
+    english-name: Bit Liu
   labels:
     chinese-name: Xunzhuo Liu（刘训灼）
-    english-name: Bit Liu
     university: University of Electronic Science and Technology of China
     high-school: Chengdu No.7 High School in Linyin Road
   creationTimestamp: "1999-12-03T12:00:00Z"
@@ -34,7 +31,7 @@ spec:
     focus: API-Machinery & Network-Gateway-API
   - role: Owner
     name: UESTC, Chengdu No.7 High School
-    focus: Community management & Knowledge sharing
+    focus: Community Management & Knowledge Sharing
 status:
   career:
   - name: Tencent
