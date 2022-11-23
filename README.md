@@ -2,8 +2,50 @@
 [![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com)
 
-**COPY AND PASTE IN TERMINAL TO RUN 👇** 
+```yaml
+---
+apiVersion: xunzhuo.github.io/v1alpha1
+kind: Introduction
+metadata:
+  annotations:
+    xunzhuo.github.io/gender: He/Him
+    english-name: Bit Liu
+  labels:
+    chinese-name: Xunzhuo Liu（刘训灼）
+    university: University of Electronic Science and Technology of China
+    high-school: Chengdu No.7 High School in Linyin Road
+  creationTimestamp: '1999-12-03T12:00:00Z'
+  name: xunzhuo
+  resourceVersion: '22'
+  uid: e532b8e2-4d2e-11ed-bdc3-0242ac120002
+spec:
+  community:
+  - role: Maintainer
+    name: Istio, EnvoyProxy, Kiali, Aeraki Mesh, Merbridge
+    focus: Service Mesh & API Gateway & eBPF & Protocol Codec
+  - role: Committer
+    name: MOSN, SOFASTACK
+    focus: Application Runtime & Service Governance
+  - role: Member
+    name: Kubernetes, Kubernetes-SIGs
+    focus: API-Machinery & Network-Gateway-API
+  - role: Owner
+    name: UESTC, Chengdu No.7 High School
+    focus: Community Management & Knowledge Sharing
+status:
+  career:
+  - name: Tencent
+    department: Tencent Cloud
+    role: Cloud Native Developer
+    state:
+      running:
+        startedAt: '2021-11-30T00:00:00Z'
+  - name: Tencent
+    department: Tencent Games
+    role: API Gateway Developer
+    state:
+      finished:
+        startedAt: '2021-01-01T00:00:00Z'
+        endedAt: '2021-09-30T00:00:00Z'
 
-``` shell
-echo "ewoJImFwaVZlcnNpb24iOiAieHVuemh1by5naXRodWIuaW8vdjFhbHBoYTEiLAoJImtpbmQiOiAiSW50cm9kdWN0aW9uIiwKCSJtZXRhZGF0YSI6IHsKCQkiYW5ub3RhdGlvbnMiOiB7CgkJCSJ4dW56aHVvLmdpdGh1Yi5pby9nZW5kZXIiOiAiSGUvSGltIiwKCQkJImVuZ2xpc2gtbmFtZSI6ICJCaXQgTGl1IgoJCX0sCgkJImxhYmVscyI6IHsKCQkJImNoaW5lc2UtbmFtZSI6ICJYdW56aHVvIExpde+8iOWImOiureeBvO+8iSIsCgkJCSJ1bml2ZXJzaXR5IjogIlVuaXZlcnNpdHkgb2YgRWxlY3Ryb25pYyBTY2llbmNlIGFuZCBUZWNobm9sb2d5IG9mIENoaW5hIiwKCQkJImhpZ2gtc2Nob29sIjogIkNoZW5nZHUgTm8uNyBIaWdoIFNjaG9vbCBpbiBMaW55aW4gUm9hZCIKCQl9LAoJCSJjcmVhdGlvblRpbWVzdGFtcCI6ICIxOTk5LTEyLTAzVDEyOjAwOjAwWiIsCgkJIm5hbWUiOiAieHVuemh1byIsCgkJInJlc291cmNlVmVyc2lvbiI6ICIyMiIsCgkJInVpZCI6ICJlNTMyYjhlMi00ZDJlLTExZWQtYmRjMy0wMjQyYWMxMjAwMDIiCgl9LAoJInNwZWMiOiB7CgkJImNvbW11bml0eSI6IFt7CgkJCSJyb2xlIjogIk1haW50YWluZXIiLAoJCQkibmFtZSI6ICJJc3RpbywgRW52b3lQcm94eSwgS2lhbGksIEFlcmFraSBNZXNoLCBNZXJicmlkZ2UiLAoJCQkiZm9jdXMiOiAiU2VydmljZSBNZXNoICYgQVBJIEdhdGV3YXkgJiBlQlBGICYgUHJvdG9jb2wgQ29kZWMiCgkJfSwgewoJCQkicm9sZSI6ICJDb21taXR0ZXIiLAoJCQkibmFtZSI6ICJNT1NOLCBTT0ZBU1RBQ0siLAoJCQkiZm9jdXMiOiAiQXBwbGljYXRpb24gUnVudGltZSAmIFNlcnZpY2UgR292ZXJuYW5jZSIKCQl9LCB7CgkJCSJyb2xlIjogIk1lbWJlciIsCgkJCSJuYW1lIjogIkt1YmVybmV0ZXMsIEt1YmVybmV0ZXMtU0lHcyIsCgkJCSJmb2N1cyI6ICJBUEktTWFjaGluZXJ5ICYgTmV0d29yay1HYXRld2F5LUFQSSIKCQl9LCB7CgkJCSJyb2xlIjogIk93bmVyIiwKCQkJIm5hbWUiOiAiVUVTVEMsIENoZW5nZHUgTm8uNyBIaWdoIFNjaG9vbCIsCgkJCSJmb2N1cyI6ICJDb21tdW5pdHkgTWFuYWdlbWVudCAmIEtub3dsZWRnZSBTaGFyaW5nIgoJCX1dCgl9LAoJInN0YXR1cyI6IHsKCQkiY2FyZWVyIjogW3sKCQkJIm5hbWUiOiAiVGVuY2VudCIsCgkJCSJkZXBhcnRtZW50IjogIlRlbmNlbnQgQ2xvdWQiLAoJCQkicm9sZSI6ICJDbG91ZCBOYXRpdmUgRGV2ZWxvcGVyIiwKCQkJInN0YXRlIjogewoJCQkJInJ1bm5pbmciOiB7CgkJCQkJInN0YXJ0ZWRBdCI6ICIyMDIxLTExLTMwVDAwOjAwOjAwWiIKCQkJCX0KCQkJfQoJCX0sIHsKCQkJIm5hbWUiOiAiVGVuY2VudCIsCgkJCSJkZXBhcnRtZW50IjogIlRlbmNlbnQgR2FtZXMiLAoJCQkicm9sZSI6ICJBUEkgR2F0ZXdheSBEZXZlbG9wZXIiLAoJCQkic3RhdGUiOiB7CgkJCQkiZmluaXNoZWQiOiB7CgkJCQkJInN0YXJ0ZWRBdCI6ICIyMDIxLTAxLTAxVDAwOjAwOjAwWiIsCgkJCQkJImVuZGVkQXQiOiAiMjAyMS0wOS0zMFQwMDowMDowMFoiCgkJCQl9CgkJCX0KCQl9XQoJfQp9" | base64 -D
 ```
