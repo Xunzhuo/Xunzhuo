@@ -8,6 +8,9 @@
 ### Hi there! 👋
 
 + I am focusing on API Gateway, Service Mesh, Kubernetes Networking.
-+ I am working on Service Mesh at Tencent Cloud Mesh Team, developing Istio based Service Mesh.
-+ I was working at API Gateway Team at Tencent Games, developing envoy based API Gateway.
-+ I am currently maintaining CNCF projects like @envoyproxy @istio @kiali @aeraki-mesh @merbridge.
++ I am working on Service Mesh at [Tencent Cloud Mesh](https://www.tencentcloud.com/products/tcm) Team, developing Istio based Service Mesh.
++ I was working at [GDP](https://gdp.gcloud.tencent.com/) API Gateway Team at Tencent Games, developing envoy based API Gateway.
++ I am the steering committee member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
++ I am the maintainer of [@envoyproxy](https://github.com/envoyproxy), [@istio](https://github.com/istio), [@kiali](https://github.com/kiali), [@aeraki-mesh](https://github.com/aeraki-mesh) and [@merbridge](https://github.com/merbridge).
++ I am the committer of [@mosn](https://github.com/mosn) and [@higress](https://github.com/higress-group).
++ I am the member of [@kubernetes](https://github.com/kubernetes), [@kubernetes-sigs](https://github.com/kubernetes-sigs) and [@kubevela](https://github.com/kubevela).
