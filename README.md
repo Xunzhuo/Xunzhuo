@@ -13,4 +13,5 @@
 + I am the steering committee member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
 + I am the maintainer of [@envoyproxy](https://github.com/envoyproxy), [@istio](https://github.com/istio), [@kiali](https://github.com/kiali), [@aeraki-mesh](https://github.com/aeraki-mesh) and [@merbridge](https://github.com/merbridge).
 + I am the committer of [@mosn](https://github.com/mosn) and [@higress](https://github.com/higress-group).
++ I am the reviewer of [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api).
 + I am the member of [@kubernetes](https://github.com/kubernetes), [@kubernetes-sigs](https://github.com/kubernetes-sigs) and [@kubevela](https://github.com/kubevela).
