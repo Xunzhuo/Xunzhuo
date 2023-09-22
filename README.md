@@ -7,11 +7,11 @@
 
 ### Hi there! 👋
 
-+ I am focusing on API Gateway, Service Mesh, Kubernetes Networking.
-+ I am working on Service Mesh at [Tencent Cloud Mesh](https://www.tencentcloud.com/products/tcm) Team, developing Istio based Service Mesh.
-+ I was working at [GDP](https://gdp.gcloud.tencent.com/) API Gateway Team at Tencent Games, developing envoy based API Gateway.
-+ I am the steering committee member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
-+ I am the maintainer of [@envoyproxy](https://github.com/envoyproxy), [@istio](https://github.com/istio), [@kiali](https://github.com/kiali), [@aeraki-mesh](https://github.com/aeraki-mesh) and [@merbridge](https://github.com/merbridge).
-+ I am the committer of [@mosn](https://github.com/mosn) and [@higress](https://github.com/higress-group).
-+ I am the member and reviewer of [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api).
-+ I am the member of [@kubernetes](https://github.com/kubernetes), [@kubernetes-sigs](https://github.com/kubernetes-sigs) and [@kubevela](https://github.com/kubevela).
++ Focusing on API Gateway, Service Mesh, Kubernetes Networking.
++ Working on Service Mesh at [Tencent Cloud Mesh](https://www.tencentcloud.com/products/tcm) Team, developing Istio based Service Mesh.
++ Worked at [GDP](https://gdp.gcloud.tencent.com/) API Gateway Team at Tencent Games, developing envoy based API Gateway.
++ Steering Committee Member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
++ Maintainer of [EnvoyProxy](https://github.com/envoyproxy), [Istio](https://github.com/istio), [Kiali](https://github.com/kiali), [Aeraki-Mesh](https://github.com/aeraki-mesh) and [Merbridge](https://github.com/merbridge).
++ Committer of [Mosn](https://github.com/mosn) and [Higress](https://github.com/higress-group).
++ Member and Reviewer of [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) and [Kubernetes Ingress2Gateway](https://github.com/kubernetes-sigs/ingress2gateway).
++ Member of [Kubernetes](https://github.com/kubernetes), [Kubernetes-SIGs](https://github.com/kubernetes-sigs) and [Kubevela](https://github.com/kubevela).
