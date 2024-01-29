@@ -8,11 +8,13 @@
 ### Hi there! 👋
 
 + CNCF Ambassador.
++ Linux Foundation LFAPAC.
 + Focusing on API Gateway, Service Mesh, Kubernetes Networking.
++ Working on API Gateway at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) Team, developing MutlCluster Kubernetes Networking.
 + Working on Service Mesh at [Tencent Cloud Mesh](https://www.tencentcloud.com/products/tcm) Team, developing Istio based Service Mesh.
 + Worked at [GDP](https://gcloud.tencent.com/pages/products/GDP.html) API Gateway Team at Tencent Games, developing envoy based API Gateway.
 + Steering Committee Member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
 + Maintainer of [EnvoyProxy](https://github.com/envoyproxy), [Istio](https://github.com/istio), [Kiali](https://github.com/kiali), [Aeraki-Mesh](https://github.com/aeraki-mesh) and [Merbridge](https://github.com/merbridge).
-+ Committer of [Mosn](https://github.com/mosn) and [Higress](https://github.com/higress-group).
++ Committer of [MOSN](https://github.com/mosn) and [Higress](https://github.com/higress-group).
 + Member and Reviewer of [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) and [Kubernetes Ingress2Gateway](https://github.com/kubernetes-sigs/ingress2gateway).
 + Member of [Kubernetes](https://github.com/kubernetes), [Kubernetes-SIGs](https://github.com/kubernetes-sigs) and [Kubevela](https://github.com/kubevela).
