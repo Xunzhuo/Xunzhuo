@@ -10,7 +10,7 @@
 + CNCF Ambassador.
 + Linux Foundation LFAPAC.
 + Focusing on API Gateway, Service Mesh, Kubernetes Networking.
-+ Working on API Gateway at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) Team, developing MutlCluster Kubernetes Networking.
++ Working on API Gateway at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) Team, developing MultiCluster Kubernetes Networking.
 + Working on Service Mesh at [Tencent Cloud Mesh](https://www.tencentcloud.com/products/tcm) Team, developing Istio based Service Mesh.
 + Worked at [GDP](https://gcloud.tencent.com/pages/products/GDP.html) API Gateway Team at Tencent Games, developing envoy based API Gateway.
 + Steering Committee Member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
