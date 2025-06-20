@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-+ I am a software engineer focusing on networking at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) Team, with a background of [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) Research at [UESTC](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China).
++ I am a software engineer focusing on networking at [TKE](https://www.tencentcloud.com/products/tke) Team, with a background of [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) Research at [UESTC](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China).
 + I am currently working on everthing around AI Gateway, especially on [Envoy AI Gateway](https://github.com/envoyproxy/ai-gateway) and [Envoy Gateway](https://github.com/envoyproxy/gateway).
 
 ### Community 🫂
