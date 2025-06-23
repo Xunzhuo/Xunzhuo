@@ -13,7 +13,7 @@
 
 + CNCF Ambassador | Linux Foundation LFAPAC
 + Steering Committee Member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
-+ Maintainer of [EnvoyProxy](https://github.com/envoyproxy), [Istio](https://github.com/istio), [Kiali](https://github.com/kiali), [Aeraki-Mesh](https://github.com/aeraki-mesh) and [Merbridge](https://github.com/merbridge).
++ Maintainer of [EnvoyProxy](https://github.com/envoyproxy), [AIBrix](https://github.com/vllm-project/aibrix), [Istio](https://github.com/istio), [Kiali](https://github.com/kiali), [Aeraki-Mesh](https://github.com/aeraki-mesh) and [Merbridge](https://github.com/merbridge).
 + Committer of [Higress](https://github.com/higress-group) and [MOSN](https://github.com/mosn).
 + Member and Reviewer of [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) and [Kubernetes Ingress2Gateway](https://github.com/kubernetes-sigs/ingress2gateway).
 + Member of [Kubernetes](https://github.com/kubernetes), [Kubernetes-SIGs](https://github.com/kubernetes-sigs) and [Kubevela](https://github.com/kubevela).
