@@ -8,6 +8,8 @@
 
 </div>
 
-Bit is a Software Engineer at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) team, focusing on Kubernetes Networking. He is currently working on everthing around AI Gateway. Previously, he has been involved in research at [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) research at [UESTC](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China) NLP Lab.
+Bit is exploring the frontier technologies of combination of networking and LLM at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) team. He is currently working on everthing around AI Infrastructure. Previously, he has been involved in [NLP](https://en.wikipedia.org/wiki/Natural_language_processing) research at [UESTC](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China) NLP Lab.
+
+Bit is leading the development of [vLLM Semantic Router](https://github.com/vllm-project/semantic-router), an intelligent auto reasoning router for Efficient LLM Inference on Mixture-of-Models, saving tons of cost by advanced routing algorithm.
 
 As a CNCF Ambassador and Linux Foundation LFAPAC, Bit serves on the [Envoy Gateway](https://github.com/envoyproxy/gateway) Steering Committee. He also maintains multiple projects including [Envoy AI Gateway](https://github.com/envoyproxy/ai-gateway), [vLLM AIBrix](https://github.com/vllm-project/aibrix), [Istio](https://github.com/istio), [Kiali](https://github.com/kiali), [Aeraki-Mesh](https://github.com/aeraki-mesh), and [Merbridge](https://github.com/merbridge), as well as the approver of [Higress](https://github.com/higress-group) and [MOSN](https://github.com/mosn). Additionally, Bit contributes as a [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api) and [Kubernetes Ingress2Gateway](https://github.com/kubernetes-sigs/ingress2gateway) reviewer and member of Kubernetes.
