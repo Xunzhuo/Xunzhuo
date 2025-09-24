@@ -8,7 +8,7 @@
 
 </div>
 
-Bit is exploring the frontier tech of combination of networking and LLM at [Tencent Kubernetes Engine](https://www.tencentcloud.com/products/tke) team. He is currently working around AI Infrastructure, serving as the Chair of K8S AI Gateway WG. Previously, he has been involved in  research at [UESTC](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China) NLP Lab.
+Bit is exploring the frontier tech in combination of networking and LLM at [Tencent](https://www.tencentcloud.com/products/tke). He is currently working around AI Infrastructure, serving as the Chair of K8S AI Gateway WG. Previously, he has been involved in  research at [UESTC](https://en.wikipedia.org/wiki/University_of_Electronic_Science_and_Technology_of_China) NLP Lab.
 
 Bit is leading the development of [vLLM Semantic Router](https://github.com/vllm-project/semantic-router), an intelligent auto reasoning router for Efficient LLM Inference on Mixture-of-Models, saving tons of cost by advanced routing algorithm.
 
