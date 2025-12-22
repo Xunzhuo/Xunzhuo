@@ -5,6 +5,6 @@
 
 </div>
 
-I study the intelligent routing @vLLM.
+I study the intelligent routing @vLLM. I focus on bringing collective intelligence to the LLM systems.
 
 ***It`s just a good thinking game*** 🎲
